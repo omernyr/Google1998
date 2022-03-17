@@ -1,0 +1,52 @@
+.search {
+    float:none;
+    display: block;
+    width: 90%;
+    background-color: #eeee;
+    margin-left: auto;
+    margin-right: auto;
+    text-align: center;
+}
+.box1 {
+    display: block;
+    float: left;
+    background-color: #7ee5da;
+    text-align: center;
+    width:33%;
+    margin-left: 5%; 
+    padding-top: 10px;
+    padding-bottom: 10px;
+    height: 62px;
+}
+.box2 {
+    display: block;
+    float: left;
+    background-color: #70CCC2;
+    font-size:small;
+    text-align: center; 
+    width:20%;
+    padding-top: 6px;
+    padding-bottom: 5px;
+    height: 71px;
+}  
+.box3 {
+    display: block;
+    float: left;
+    background-color: #62B3aa;
+    text-align: center; 
+    margin-right: 4%;
+    width: 37%;
+    height: 82px;
+}
+
+.footer {
+    font-size: small;
+}
+
+
+
+
+
+
+
+
